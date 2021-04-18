@@ -1,0 +1,23 @@
+{
+  "name": "discordbot_den_haag_v2",
+  "version": "1.0.0",
+  "description": "Discord bot voor server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Bot",
+    "test"
+  ],
+  "author": "Dean",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
